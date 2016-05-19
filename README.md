@@ -4,7 +4,7 @@ An interface for "Firebase Cloud Messaging for Android" on Node.js
 
 ## Installation
 
-Via [npm][1]:
+Via [npm](https://www.npmjs.com/package/fcm):
 
     $ npm install fcm
 
@@ -31,5 +31,5 @@ Via [npm][1]:
         }
     });
 
-See [FCM documentation][2] for details.
+See [FCM documentation](https://firebase.google.com/docs/cloud-messaging) for details.
 
