@@ -1,18 +1,18 @@
 {
-  "name": "gcm",
-  "description": "An interface to Google Cloud Messaging for Android (GCM) on Node.js",
+  "name": "fcm",
+  "description": "An interface to Firebase Cloud Messaging for Android (FCM) on Node.js",
   "version": "1.0.1",
-  "author": "Changshin Lee <cslee@h2soft.kr>",
+  "author": "Noor Mohamed",
   "contributors": [ 
-    { "name": "Changshin Lee", "email": "cslee@h2soft.kr" },
-    { "name": "Hannes Gassert", "url": "http://gassert.ch" }
+    { "name": "Noor Mohamed", "email": "noormohamed47@gmail.com" }
+    
   ],
-  "keywords": ["google", "push", "push notifications", "android", "gcm"],
-  "main": "./lib/gcm.js",
+  "keywords": ["google", "push", "push notifications", "android", "fcm","node-fcm"],
+  "main": "./lib/fcm.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/h2soft/node-gcm.git",
-    "web" : "http://github.com/h2soft/node-gcm"
+    "url": "https://github.com/aknoormohamed/node-fcm.git",
+    "web" : "https://github.com/aknoormohamed/fcm"
   },
   "engines": { "node": ">= 0.8.0" },
   "dependencies": {
