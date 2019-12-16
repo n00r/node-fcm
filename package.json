@@ -20,8 +20,8 @@
   "main": "./lib/fcm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aknoormohamed/node-fcm.git",
-    "web": "https://github.com/aknoormohamed/fcm"
+    "url": "https://github.com/n00r/node-fcm.git",
+    "web": "https://github.com/n00r/fcm"
   },
   "engines": {
     "node": ">= 0.8.0"
