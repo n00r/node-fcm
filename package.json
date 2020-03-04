@@ -1,7 +1,7 @@
 {
   "name": "fcm",
   "description": "An interface to Firebase Cloud Messaging for Android (FCM) on Node.js.",
-  "version": "1.0.1",
+  "version": "2.0",
   "author": "Noor Mohamed",
   "contributors": [
     {
